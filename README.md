@@ -22,6 +22,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sheelganvir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+# Productivity Stats📈:
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheelganvir&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+</table>
+
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=sheelganvir)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
