@@ -26,18 +26,17 @@
                     src="https://github-readme-streak-stats.herokuapp.com?user=sheelganvir&theme=algolia&hide_border=true" />
             </td>
         </tr>
-    </table>
+</table>
 
-    <table>
+<table>
         <tr>
             <td>
-                <img
-                    src="https://github-readme-activity-graph.vercel.app/graph?username=sheelganvir&theme=react-dark&hide_border=true" />
+                <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheelganvir&theme=react-dark&hide_border=true" />
             </td>
         </tr>
-    </table>
+</table>
 
-    <table>
+<table>
         <tr>
             <td>
                 <img src="https://stats.quine.sh/sheelganvir/github?theme=dark">
@@ -46,7 +45,7 @@
                 <img src="https://stats.quine.sh/sheelganvir/languages-over-time?theme=dark">
             </td>
         </tr>
-    </table>
+</table>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sheelganvir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
