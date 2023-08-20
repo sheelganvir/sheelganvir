@@ -8,7 +8,8 @@
 <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 
- 🌱 I’m currently learning C++ DSA, HTML, CSS, JAVASCRIPT<br><br>💬 Ask me about C, C++, HTML, CSS<br><br>📫 How to reach me sheelganvir2805@gmail.com<br>
+ 🌞 I am an open-source enthusiast and an aspiring full-stack developer along with other skills like C & C++.<br><br>🌱 I’m currently learning Web Development & DSA<br><br>👯 I’m looking forward to be a part of various interesting projects<br><br>🌏 I’m looking to collaborate on Web Development Projects
+<br><br>🤝 I’m looking for Internships in Web Development/Software Development<br><br>🤝 I’m eager to know about opportunities which will help me in expanding my potential.<br><br>📫 How to reach me sheelganvir2805@gmail.com<br>
 
 
 ## 🌐 Socials:
