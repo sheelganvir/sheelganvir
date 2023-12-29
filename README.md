@@ -7,7 +7,7 @@
 
 
  🌞 I am an open-source enthusiast and an aspiring full-stack developer along with other skills like C & C++.<br><br>🌱 I’m currently learning Web Development & DSA<br><br>👯 I’m looking forward to be a part of various interesting projects<br><br>🌏 I’m looking to collaborate on Web Development Projects
-<br><br>🤝 I’m looking for Internships in Web Development/Software Development<br><br>🤝 I’m eager to know about opportunities which will help me in expanding my potential.<br><br>📫 How to reach me sheelganvir2805@gmail.com<br>
+<br><br>🤝 I’m looking for Internships in Web Development/Software Development<br><br>📫 How to reach me sheelganvir2805@gmail.com<br>
 
 
 ## 🌐 Socials:
