@@ -5,7 +5,9 @@
 [![Profile Visitors](https://komarev.com/ghpvc/?username=sheelganvir&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/sheelganvir)
 
 </div>
- 🌞 I am an open-source enthusiast and an aspiring full-stack developer along with other skills like C & C++.<br><br>🌱 I’m currently learning Web Development & DSA<br><br>👯 I’m looking forward to be a part of various interesting projects<br><br>🌏 I’m looking to collaborate on Web Development Projects
+
+
+ 🌞 I am an open-source enthusiast and an aspiring full-stack developer along with other skills like C & C++.<br><br>🌏 I’m looking to collaborate on Web Development Projects
 <br><br>🤝 I’m looking for Internships in Web Development/Software Development<br><br>📫 How to reach me sheelganvir2805@gmail.com<br>
 
 
@@ -53,6 +55,25 @@
   
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sheelganvir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<div align="center"> 
+  
+
+<h2 align="center">Leetcode Info<h2>
+
+<p align="center">
+  <a href="https://leetcode.com/sheelganvir/" target="_blank"><img align="center" src="https://leetcode.com/static_assets/public/images/badges/2024/gif/2024-06.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/sheelganvir/" target="_blank"><img align="center" src="https://leetcode.com/static_assets/marketing/2023-50.gif" alt="jyot" height="200" width="200" /></a>
+ <a href="https://leetcode.com/sheelganvir/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/sheelganvir/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  
+</p>
+<p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/sheelganvir?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
+
+<br/><br/>
 
 # Productivity Stats📈:
 <table>
