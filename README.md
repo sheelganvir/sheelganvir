@@ -18,6 +18,7 @@
 
 </div>
 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/00/37/0b/00370bedfef25129fd8441c864f67bb9.gif">
 
  🌞 I am an open-source enthusiast and an aspiring full-stack developer along with other skills like C & C++.<br><br>🌏 I’m looking to collaborate on Web Development Projects
 <br><br>🤝 I’m looking for Internships in Web Development/Software Development<br><br>📫 How to reach me sheelganvir2805@gmail.com<br><br>💼 Portfolio : https://sheel-portfolio.vercel.app/<br><br>
