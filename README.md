@@ -69,6 +69,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sheelganvir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+[![An image of @sheelganvir's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sheelganvir)](https://holopin.io/@sheelganvir)
+
+
 <div align="center"> 
   
 
