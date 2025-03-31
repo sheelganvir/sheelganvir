@@ -20,7 +20,7 @@
 
 <img align="right" alt="Coding" width="200" src="https://www.jimphicdesigns.com/downloads/imgs-mockup/fire-gif.gif">
 
- 🌞 Aspiring Software Developer exploring Data Analytics and DevOps.<br><br>🌏 I’m looking to collaborate on Projects
+ 🌞 Aspiring Software Developer exploring Data Analyst and DevOps.<br><br>🌏 I’m looking to collaborate on Projects
 <br><br>🤝 I’m looking for Internships in Software Development/Data Analyst/DevOps<br><br>📫 How to reach me sheelganvir2805@gmail.com<br><br>💼 Portfolio : https://sheel-portfolio.vercel.app/<br><br>
 
 
