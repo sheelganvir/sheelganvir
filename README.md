@@ -90,16 +90,6 @@
 
 <br/><br/>
 
-# Productivity Stats📈:
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheelganvir&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
-   </tr> 
-</table>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sheelganvir&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 
 
