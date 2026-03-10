@@ -2,7 +2,7 @@
 <h3 align="center">
   <a href="https://git.io/typing-svg" style="text-decoration: none;">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C658F7&width=435&lines=Frontend+Developer;Software+Engineer;MERN+Stack+Developer+DevOps+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C658F7&width=435&lines=Software+Engineer;Full+Stack+Developer;DevOps+Engineer" alt="Typing SVG" />
   </a>
 </h3>
 
@@ -20,9 +20,11 @@
 
 <img align="right" alt="Coding" width="200" src="https://www.jimphicdesigns.com/downloads/imgs-mockup/fire-gif.gif">
 
- 🌞 Aspiring Software Developer exploring Data Analyst and DevOps.<br><br>🌏 I’m looking to collaborate on Projects
-<br><br>🤝 I’m looking for Internships in Software Development/Data Analyst/DevOps<br><br>📫 How to reach me sheelganvir2805@gmail.com<br><br>💼 Portfolio : https://sheel-portfolio.vercel.app/<br><br>
-
+Currently messing around with AI systems, Agentic AI, devops and scalable backend architectures.<br><br>
+----->> <strong>I enjoy turning random ideas into real products and a lot of late-night debugging 😅</strong><br><br>
+🤝 I’m looking to collaborate on impactful Software and AI/GenAI projects.<br><br>
+📫 How to reach me: sheelganvir2805@gmail.com<br><br>
+💼 Portfolio : https://sheel-portfolio.vercel.app/<br><br>
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sheel-ganvir) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sheelganvir) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sheelganvir) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/developer26) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@DebugYaar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sheel_ganvir) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sheelganvir2805@gmail.com) 
