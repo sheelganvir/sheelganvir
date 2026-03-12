@@ -62,10 +62,12 @@ Currently messing around with AI systems, Agentic AI, devops and scalable backen
 
 <p align="center">
   
-  <a href="https://leetcode.com/sheelganvir/" target="_blank"><img align="center" src="https://leetcode.com/static_assets/marketing/2023-50.gif" alt="jyot" height="200" width="200" /></a>
- <a href="https://leetcode.com/sheelganvir/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/sheelganvir/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/sheelganvir/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/sheelganvir/" target="_blank"><img align="center" src="https://leetcode.com/static_assets/marketing/2023-50.gif" alt="jyot" height="160" width="160" /></a>
+ <a href="https://leetcode.com/sheelganvir/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="160" width="160" /></a>
+  <a href="https://leetcode.com/sheelganvir/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="160" width="160" /></a>
+  <a href="https://leetcode.com/sheelganvir/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="jyot" height="160" width="160" /></a>
+  <a href="https://leetcode.com/sheelganvir/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" alt="jyot" height="160" width="160" /></a>
+
   
 </p>
 
